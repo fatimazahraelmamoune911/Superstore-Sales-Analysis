@@ -71,8 +71,11 @@ Superstore-Sales-Analysis/
 1. Clone this repository.
 2. Install the required Python libraries.
 3. Open the Jupyter Notebook.
-4. Make sure the dataset is available in the correct directory.
-5. Run the notebook cells.
+4. ## Project Notebook
+
+[View the full analysis](Superstore_Profitability_Analysis.ipynb)
+5. Make sure the dataset is available in the correct directory.
+6. Run the notebook cells.
 
 ## 9. Conclusion
 
